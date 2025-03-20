@@ -1,0 +1,72 @@
+
+body {
+    display: none;
+  }
+  
+
+html {
+    background-color: #eeeeee;
+}
+
+
+#head {
+    width: 50%;
+    margin: auto;
+}
+.head-info {
+    color: black;
+}
+
+#title {
+    padding: 10px 0;
+    margin-bottom: 0;
+}
+
+.head-sub-inf {
+    margin: 2px;
+}
+
+img {
+    display: block;
+}
+#image {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#img-div {
+    margin-top: 0.75rem;
+}
+
+#img-caption {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.time-line {
+    padding: 10px;
+    margin: auto;
+    width: 75%;
+    font-family: 'Roboto', 'sans-serif';
+    font-size: 18px;
+}
+
+.event {
+    padding: 6px;
+}
+
+a {
+    color: black;
+}
+
+
+
+.wsmoke {
+    background-color: whitesmoke;
+}
+.center {
+    text-align: center;
+}
+.italic {
+    font-style: italic;
+}

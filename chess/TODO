@@ -1,0 +1,7 @@
+when the king be eleminated, the process should stop
+when the king be in a danger, other piece shouldn't move
+add an end
+add a clock
+add a territory to show eliminated pieces
+add check control and ban the king to move a threatenend square
+when a pawn reached the finish side, the player should select an upgrade type

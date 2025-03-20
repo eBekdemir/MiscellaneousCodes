@@ -1,0 +1,1 @@
+print(*[str('*'*i).center(15) for i in range(1,10,2)], sep='\n')

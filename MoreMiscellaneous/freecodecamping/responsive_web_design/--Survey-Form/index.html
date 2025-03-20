@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+    </head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1 id="title">Survey Form</h1>
+            <p id="description">This is a scientific survey form which will help us to improve our knowledge of humans behavior towards to sea lives.</p>
+        </header>
+        <form id="survey-form">
+            <fieldset class="forms">
+                <label id="name-label" for="name" class="infos"><p class="inp-text">Enter your name:</p><input id="name" type="text" placeholder="Enes..." class="input" required ></label>
+                <label id="surname-label" for="surname" class="infos"><p class="inp-text">Enter your surname:</p><input id="surname" type="text" placeholder="Bekdemir..." class="input" ></label>
+                <label id="number-label" for="number" class="infos"><p class="inp-text">Enter your age:</p><input id="number" type="number" min="12" max="100" placeholder="(age)" class="input" required ></label>
+                <label id="email-label" for="email" class="infos"><p class="inp-text">Enter your name:</p><input id="email" type="email" placeholder="42enesbekdemir@gmail.com..." class="input" required ></label>
+            </fieldset>
+            <fieldset>
+                <legend>Firstly, the most cliché question, dog or cat?</legend>
+                <label for="dog"><input id="dog" type="radio" name="dog-cat" class="inline" value="dog"/> Dog</label>
+                <label for="cat"><input id="cat" type="radio" name="dog-cat" class="inline" value='cat' checked/> Cat</label>            
+            </fieldset>
+            <fieldset class="forms">
+                <legend>Which fish do you like the most?</legend>
+                <label for="dropdown">
+                    <select name="lovliest" id="dropdown">
+                        <option value="">(select one of the following)</option>
+                        <option value="1">Salmon</option>
+                        <option value="2">Tuna</option>
+                        <option value="3">Cod</option>
+                        <option value="4">Goldfish</option>
+                        <option value="5">Angelfish</option>
+                        <option value="6">Betta</option>
+                        <option value="7">Anchovy</option>
+                        <option value="8">Crap</option>
+                        <option value="9">Shark</option>
+                    </select>
+                </label>
+            </fieldset>
+            <table>
+                <tr>
+                    <td>
+                        <fieldset class="forms last">
+                            <legend>What fish do you have?</legend>
+                            <label for="salmon">
+                                <input type="checkbox" name="have" value="salmon" /> Salmon
+                            </label>
+                            <label for="tuna">
+                                <input type="checkbox" name="have" value="tuna" /> Tuna
+                            </label>
+                            <label for="cod">
+                                <input type="checkbox" name="have" value="cod" /> Cod
+                            </label>
+                            <label for="goldfish">
+                                <input type="checkbox" name="have" value="goldfish" /> Goldfish
+                            </label>
+                            <label for="angelfish">
+                                <input type="checkbox" name="have" value="angelfish" /> Angelfish
+                            </label>
+                            <label for="betta">
+                                <input type="checkbox" name="have" value="betta" /> Betta
+                            </label>
+                            <label for="anchovy">
+                                <input type="checkbox" name="have" value="anchovy" /> Anchovy
+                            </label>
+                            <label for="crap">
+                                <input type="checkbox" name="have" value="crap" /> Crap
+                            </label>
+                            <label for="shark">
+                                <input type="checkbox" name="have" value="shark" /> Shark
+                            </label>
+                        </fieldset>
+                    </td>
+                    <td>
+                        <fieldset class="forms last">
+                            <legend>Anyting else...</legend>
+                            <label for="additions">
+                                <textarea id="additions" name="additions" rows="14" cols="40" placeholder="Anyting else..."></textarea>
+                            </label>
+                        </fieldset>
+                    </td>
+                    </tr>
+                    </table>
+        <input type="submit" id="submit" />
+        </form>
+    </div>
+</body>
+</html>

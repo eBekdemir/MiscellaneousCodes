@@ -1,0 +1,1 @@
+start "" "C:\Codes\Python\python-3-11-4\pythonw.exe" "C:\Users\excalibur\Desktop\Codes\twilio_daily_message\quotes.py"

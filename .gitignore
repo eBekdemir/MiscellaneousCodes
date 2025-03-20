@@ -1,0 +1,11 @@
+Nothing/
+.env
+**/.env
+**/.env.local
+
+
+# other repos
+todoapp/
+recommendation/
+ProjectEuler/
+Dual-N-Back/

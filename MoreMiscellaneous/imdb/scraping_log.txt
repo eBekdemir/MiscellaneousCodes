@@ -1,0 +1,58 @@
+Error while getting suggestions (tt0045152): 
+	'NoneType' object has no attribute 'get'
+Error while getting seconds (tt3344128): 
+	'NoneType' object is not subscriptable
+Error while getting release year (tt3344128): 
+	'NoneType' object is not subscriptable
+Error while getting seconds (tt16360004): 
+	'NoneType' object is not subscriptable
+Error while getting release year (tt16360004): 
+	'NoneType' object is not subscriptable
+Error while getting seconds (tt31378509): 
+	'NoneType' object is not subscriptable
+Error while getting release year (tt31378509): 
+	'NoneType' object is not subscriptable
+Error while getting suggestions (tt31378509): 
+	'NoneType' object has no attribute 'get'
+Error while getting seconds (tt10466872): 
+	'NoneType' object is not subscriptable
+Error while getting seconds (tt0786945): 
+	'NoneType' object is not subscriptable
+Error while getting description (tt0786945): 
+	'NoneType' object is not subscriptable
+Error while getting seconds (tt32844085): 
+	'NoneType' object is not subscriptable
+Error while getting seconds (tt32821057): 
+	'NoneType' object is not subscriptable
+Error while getting suggestions (tt0045152): 
+	'NoneType' object has no attribute 'get'
+Error while getting suggestions (tt1194238): 
+	'NoneType' object has no attribute 'get'
+Error while getting seconds (tt27351074): 
+	'NoneType' object is not subscriptable
+Error while getting release year (tt27351074): 
+	'NoneType' object is not subscriptable
+Error while getting seconds (tt0892384): 
+	'NoneType' object is not subscriptable
+Error while getting release year (tt0892384): 
+	'NoneType' object is not subscriptable
+Error while getting countries (tt0892384): 
+	'NoneType' object is not subscriptable
+Error while getting description (tt0892384): 
+	'NoneType' object is not subscriptable
+Error while getting suggestions (tt8178634): 
+	'NoneType' object has no attribute 'get'
+Error while getting seconds (tt30833524): 
+	'NoneType' object is not subscriptable
+Error while getting description (tt30833524): 
+	'NoneType' object is not subscriptable
+Error while getting seconds (tt2169177): 
+	'NoneType' object is not subscriptable
+Error while getting suggestions (tt1931533): 
+	'NoneType' object has no attribute 'get'
+Error while getting seconds (tt27708190): 
+	'NoneType' object is not subscriptable
+Error while getting seconds (tt26752826): 
+	'NoneType' object is not subscriptable
+Error while getting description (tt26752826): 
+	'NoneType' object is not subscriptable
