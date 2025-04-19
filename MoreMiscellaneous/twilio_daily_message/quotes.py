@@ -19,7 +19,7 @@ def isConnected():
     except requests.ConnectionError:
         return False
 
-with open(r"C:\Users\excalibur\Desktop\Codes\twilio_call\quotes.json", 'r', encoding='utf-8') as f:
+with open(r"C:\Users\excalibur\Desktop\Codes\MoreMiscellaneous\twilio_daily_message\quotes.json", 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 account_sid = os.getenv("TWILIO_ACCOUNT_SID")
